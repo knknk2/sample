@@ -1,0 +1,23 @@
+{
+  "sampleApp": {
+    "fooBar": {
+      "home": {
+        "title": "Foo Bars",
+        "createLabel": "Create a new Foo Bar",
+        "createOrEditLabel": "Create or edit a Foo Bar",
+        "notFound": "No Foo Bars found"
+      },
+      "created": "A new Foo Bar is created with identifier {{ param }}",
+      "updated": "A Foo Bar is updated with identifier {{ param }}",
+      "deleted": "A Foo Bar is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Foo Bar {{ id }}?"
+      },
+      "detail": {
+        "title": "Foo Bar"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name"
+    }
+  }
+}
